@@ -1,1 +1,2 @@
-# AEA5-Ex1 Sergi Gallart Fanlo
+# AEA5-Ex1 Sergi Gallart Fanlo 
+Sergi
